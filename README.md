@@ -1,3 +1,3 @@
-# Emby-Image
+# Emby媒体库封面图
 一些自制的Emby封面图
 欢迎使用
